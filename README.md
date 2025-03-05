@@ -85,14 +85,16 @@ If you want to improve the UI or add new features, follow these steps:
 - Create a pull request 🔄
 
 ----
-###🎉 Final Outcome
+## 🎉 Final Outcome
 ![outcome ](https://github.com/ShivanisharmaF128/Face_detector_openCV/blob/main/Output.jfif)
 
 ----
 
-###👨‍💻 Author
+## 👨‍💻 Author
 
-Shivani Sharma
+  Shivani Sharma
+  
 📌 Passionate about Python, Data Science, and GUI Development.
+
 🌐 Connect with me on LinkedIn.
 
