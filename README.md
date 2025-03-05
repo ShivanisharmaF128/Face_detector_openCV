@@ -58,6 +58,7 @@ cv2.destroyAllWindows()
 
 
 ```
+---
 ## 📜 Code Explanation
 
 1. **Loading Haar Cascade** → Loads the pre-trained Haar cascade classifier for face detection.
@@ -84,7 +85,6 @@ If you want to improve the UI or add new features, follow these steps:
 - Create a pull request 🔄
 
 ----
-
 ###🎉 Final Outcome
 ![outcome ](https://github.com/ShivanisharmaF128/Face_detector_openCV/blob/main/Output.jfif)
 
