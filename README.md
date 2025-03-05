@@ -1,6 +1,6 @@
 # Face-Detector-GUI-Using-Python
 
-A simple **Face detector ** built using **Python and OpenCV**.This project detects faces in real-time using a webcam and highlights them with bounding boxes.
+A simple **Face detector** built using **Python and OpenCV**.This project detects faces in real-time using a webcam and highlights them with bounding boxes.
 
 ![face_detector](https://github.com/ShivanisharmaF128/Face_detector_openCV/blob/main/face%20detection%20image.jpeg)
 
@@ -86,12 +86,12 @@ If you want to improve the UI or add new features, follow these steps:
 ----
 
 ###🎉 Final Outcome
-
 ![outcome ](https://github.com/ShivanisharmaF128/Face_detector_openCV/blob/main/Output.jfif)
 
 ----
 
 ###👨‍💻 Author
+
 Shivani Sharma
 📌 Passionate about Python, Data Science, and GUI Development.
 🌐 Connect with me on LinkedIn.
