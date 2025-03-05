@@ -1,1 +1,1 @@
-# Face_detector_openCV
+# Face-Detector-GUI-Using-Python
